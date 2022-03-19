@@ -1,0 +1,26 @@
+.log-container{
+    background-image: linear-gradient(to bottom,#3271bf,#faf6f5);
+    height:100vh;
+    width:100vw;
+    background-size:cover;
+}
+.log-card{
+    background-color:whitesmoke;
+    border-radius:12px;
+    border-width:0px;
+    height:350px;
+    width:25%;
+    margin-top:25px;
+    margin-right:50px;
+}
+.heading{
+    color:darkviolet;
+    font-size:30px;
+    font-family:'Roboto';
+    text-align:center;
+}
+label{
+    color:darkviolet;
+    font-size:24px;
+    font-family:'Roboto';
+}
