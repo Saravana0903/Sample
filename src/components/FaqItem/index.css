@@ -1,0 +1,27 @@
+/* Write your code here. */
+.faq-con {
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  border: 2px solid #d7dae6;
+  border-radius: 14px;
+}
+.top-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.title {
+  color: #323f4b;
+  font-size: 24px;
+  font-family: 'Roboto';
+}
+.img-icon {
+  height: 22px;
+  width: 22px;
+}
+.des {
+  color: #9aa5b1;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
